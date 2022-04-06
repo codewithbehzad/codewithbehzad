@@ -50,7 +50,7 @@
 
 ### ✉ Contacts
 
-<a href="https://www.linkedin.com/in/martin-velkov-228aa91a8/" target="_blank">
+<a href="https://www.linkedin.com/in/hossein-behzad-046721210/" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
     alt="Facebook logo"
@@ -62,14 +62,6 @@
   <img
     src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"
     alt="Instagram logo"
-    width="40px"
-    height="40px"
-  />
-</a>
-<a href="https://www.facebook.com/m.velkov123/" target="_blank">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"
-    alt="Facebook logo"
     width="40px"
     height="40px"
   />
