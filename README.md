@@ -40,6 +40,12 @@
   height="40px"
 />
 <img
+  src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"
+  alt="Figma logo"
+  width="40px"
+  height="40px"
+/>
+<img
   src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
   alt="Git logo"
   width="40px"
