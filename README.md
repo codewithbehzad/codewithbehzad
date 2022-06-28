@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"/>, I'm Hossein Behzad!
+# Hi there 😁, I'm Hossein Behzad!
 
 - 👨‍💻 A Teacher with the technologies listed in the **toolbox** below.
 - 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
